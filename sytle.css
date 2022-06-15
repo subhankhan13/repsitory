@@ -1,0 +1,55 @@
+*
+{
+    font-family: sans-serif;
+}
+.navbar{
+    background-color: black;
+    border-radius: 30px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 13px;
+}
+.navbar li a{
+padding: 3px 3px;
+text-decoration: none;
+color: aliceblue;
+}
+body{
+    background-color: antiquewhite;
+}
+
+.kra{
+    text-align: center;
+}
+.krr{
+    text-align: center;
+}
+.jie{
+    text-align: center;
+}
+.pra{
+    text-align: center;
+    font-size: 20px;
+}
+.juiui{
+    text-align: center;
+}
+.ke{
+    text-align: center;
+    font-size: 20px;
+}
+.hee{
+    text-align: center;
+}
+.qq{
+    text-align: center;
+    font-size: 20px;
+}
+.jeo{
+    margin-top: 40px;
+}
